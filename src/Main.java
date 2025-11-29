@@ -4,7 +4,8 @@ public class Main {
         Quadrilatere quadrilatere1 = new Quadrilatere(1,2,3,4);
         System.out.println(quadrilatere.getSurface());
         System.out.println(quadrilatere1.getPerimetre());
+        System.out.println(quadrilatere1.getSurface());
 
-        
+
     }
 }
