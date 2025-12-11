@@ -15,6 +15,6 @@ public class Delegue extends Eleve {
 
     }
     public void sayHello() {
-        System.out.println();
+        System.out.println("ddd");
     }
 }
